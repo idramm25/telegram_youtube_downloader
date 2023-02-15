@@ -1,7 +1,5 @@
 # Telegram YouTube downloader
 ---
-## Telegram bot for downloading video or audio from [multiple](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) sites, you can run it with [single](#Running) command.
-
 ![GitHub top language](https://img.shields.io/github/languages/top/cccaaannn/telegram_youtube_downloader?color=blue&style=for-the-badge) [![GitHub release](https://img.shields.io/github/v/release/cccaaannn/telegram_youtube_downloader?color=blueviolet&style=for-the-badge)](https://github.com/cccaaannn/telegram_youtube_downloader/releases?style=flat-square) [![GitHub](https://img.shields.io/github/license/cccaaannn/telegram_youtube_downloader?color=brightgreen&style=for-the-badge)](https://github.com/cccaaannn/telegram_youtube_downloader/blob/master/LICENSE) [![Docker Pulls](https://img.shields.io/docker/pulls/cccaaannn/telegram_youtube_downloader?color=blue&style=for-the-badge)](https://hub.docker.com/r/cccaaannn/telegram_youtube_downloader) [![Docker Image Size (tag)](https://img.shields.io/docker/image-size/cccaaannn/telegram_youtube_downloader/latest?color=teal&style=for-the-badge)](https://hub.docker.com/r/cccaaannn/telegram_youtube_downloader)
 
 ## Table of contents

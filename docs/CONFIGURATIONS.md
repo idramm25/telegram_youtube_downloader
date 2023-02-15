@@ -88,7 +88,7 @@ allowed_url_patterns:
   - name: facebook
     pattern: "^https://.*facebook.com/.*$"
 ```
-### Allow all sites. Downloads still will be restricted by [supported sites of the yt-dlp lib](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+
 ```yaml
 allowed_url_patterns:
   - name: All sites allowed
